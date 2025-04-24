@@ -53,7 +53,7 @@
       "id": 5,
       "type": "text",
       "text": "What method is used to add an element to the end of an array in JavaScript?",
-      "correctAnswer": "push, push()",
+      "correctAnswer": "push",
       "explanation": "The push() method adds one or more elements to the end of an array."
     },
     {
