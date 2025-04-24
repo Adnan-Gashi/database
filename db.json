@@ -25,14 +25,14 @@
        },
        { 
         "id": 101,
-        "qtype": "narative",
-        "question": "Is the following code snippet the correct way  to implement a css file into html?",
-        "image":"HTML Question 2.png",
+        "qtype": "narrative",
+        "question": "Is the following code snippet the correct way  to implement a CSS file into html?",
+        "image": "HTML Question 2.png",
         "options": ["Yes this is Correct", 
                     "No this is not Correct" 
                     ],
         "correct": "No this is not Correct",
-        "explanation": "This snipet of code is incorrect as the code uses an <src> tag instead of a <link> tag to call style.css"
+        "explanation": "This snippet of code is incorrect as the code uses a <src> tag instead of a <link> tag to call style.css"
        },
        { 
         "id": 102,
